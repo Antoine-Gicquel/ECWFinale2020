@@ -10,3 +10,6 @@ En ce qui concerne la résolution des challenges, nous avons globalement pu rés
 
 ### Topologie réelle du réseau
 
+Cette topologie a été réalisée par l'équipe France, qui a fini à la première place du classement.
+
+![Topologie du réseau](topo.png)
